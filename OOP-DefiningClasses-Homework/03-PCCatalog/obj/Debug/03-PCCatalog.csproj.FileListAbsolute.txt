@@ -1,0 +1,6 @@
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-DefiningClasses-Homework\03-PCCatalog\bin\Debug\03-PCCatalog.exe.config
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-DefiningClasses-Homework\03-PCCatalog\obj\Debug\03-PCCatalog.csprojResolveAssemblyReference.cache
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-DefiningClasses-Homework\03-PCCatalog\bin\Debug\03-PCCatalog.exe
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-DefiningClasses-Homework\03-PCCatalog\bin\Debug\03-PCCatalog.pdb
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-DefiningClasses-Homework\03-PCCatalog\obj\Debug\03-PCCatalog.exe
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-DefiningClasses-Homework\03-PCCatalog\obj\Debug\03-PCCatalog.pdb

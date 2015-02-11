@@ -1,0 +1,1 @@
+Path3D {Point3D (x = -7; y = -4; z = 3 ), Point3D (x = 17; y = 6; z = 2.5 ), Point3D (x = 0; y = 0; z = 0 )}

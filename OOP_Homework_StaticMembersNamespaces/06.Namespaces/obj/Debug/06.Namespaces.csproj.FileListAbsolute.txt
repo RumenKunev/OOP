@@ -1,0 +1,5 @@
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP_Homework_StaticMembersNamespaces\06.Namespaces\bin\Debug\06.Namespaces.exe.config
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP_Homework_StaticMembersNamespaces\06.Namespaces\bin\Debug\06.Namespaces.exe
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP_Homework_StaticMembersNamespaces\06.Namespaces\bin\Debug\06.Namespaces.pdb
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP_Homework_StaticMembersNamespaces\06.Namespaces\obj\Debug\06.Namespaces.exe
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP_Homework_StaticMembersNamespaces\06.Namespaces\obj\Debug\06.Namespaces.pdb

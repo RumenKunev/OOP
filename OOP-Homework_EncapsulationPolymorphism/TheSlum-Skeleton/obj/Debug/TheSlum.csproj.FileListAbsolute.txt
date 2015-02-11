@@ -1,0 +1,5 @@
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP-Homework_EncapsulationPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.csprojResolveAssemblyReference.cache
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP-Homework_EncapsulationPolymorphism\TheSlum-Skeleton\bin\Debug\TheSlum.exe
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP-Homework_EncapsulationPolymorphism\TheSlum-Skeleton\bin\Debug\TheSlum.pdb
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP-Homework_EncapsulationPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.exe
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP-Homework_EncapsulationPolymorphism\TheSlum-Skeleton\obj\Debug\TheSlum.pdb

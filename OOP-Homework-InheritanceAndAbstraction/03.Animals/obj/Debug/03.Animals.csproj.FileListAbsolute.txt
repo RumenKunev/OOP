@@ -1,0 +1,6 @@
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP-Homework-InheritanceAndAbstraction\03.Animals\bin\Debug\03.Animals.exe.config
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP-Homework-InheritanceAndAbstraction\03.Animals\obj\Debug\03.Animals.csprojResolveAssemblyReference.cache
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP-Homework-InheritanceAndAbstraction\03.Animals\bin\Debug\03.Animals.exe
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP-Homework-InheritanceAndAbstraction\03.Animals\bin\Debug\03.Animals.pdb
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP-Homework-InheritanceAndAbstraction\03.Animals\obj\Debug\03.Animals.exe
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP-Homework-InheritanceAndAbstraction\03.Animals\obj\Debug\03.Animals.pdb

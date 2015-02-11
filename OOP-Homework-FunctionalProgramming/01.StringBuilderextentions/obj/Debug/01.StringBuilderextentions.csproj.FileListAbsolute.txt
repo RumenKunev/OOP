@@ -1,0 +1,5 @@
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-Homework-FunctionalProgramming\01.StringBuilderextentions\bin\Debug\01.StringBuilderextentions.exe.config
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-Homework-FunctionalProgramming\01.StringBuilderextentions\bin\Debug\01.StringBuilderextentions.exe
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-Homework-FunctionalProgramming\01.StringBuilderextentions\bin\Debug\01.StringBuilderextentions.pdb
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-Homework-FunctionalProgramming\01.StringBuilderextentions\obj\Debug\01.StringBuilderextentions.exe
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-Homework-FunctionalProgramming\01.StringBuilderextentions\obj\Debug\01.StringBuilderextentions.pdb

@@ -1,0 +1,6 @@
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-DefiningClasses-Homework\01-ClassPerson\bin\Debug\01-ClassPerson.exe.config
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-DefiningClasses-Homework\01-ClassPerson\obj\Debug\01-ClassPerson.csprojResolveAssemblyReference.cache
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-DefiningClasses-Homework\01-ClassPerson\bin\Debug\01-ClassPerson.exe
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-DefiningClasses-Homework\01-ClassPerson\bin\Debug\01-ClassPerson.pdb
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-DefiningClasses-Homework\01-ClassPerson\obj\Debug\01-ClassPerson.exe
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-DefiningClasses-Homework\01-ClassPerson\obj\Debug\01-ClassPerson.pdb

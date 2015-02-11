@@ -1,0 +1,6 @@
+c:\users\thinkpad\documents\visual studio 2013\Projects\Solution1\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe.config
+c:\users\thinkpad\documents\visual studio 2013\Projects\Solution1\02.EnterNumbers\bin\Debug\02.EnterNumbers.exe
+c:\users\thinkpad\documents\visual studio 2013\Projects\Solution1\02.EnterNumbers\bin\Debug\02.EnterNumbers.pdb
+c:\users\thinkpad\documents\visual studio 2013\Projects\Solution1\02.EnterNumbers\obj\Debug\02.EnterNumbers.csprojResolveAssemblyReference.cache
+c:\users\thinkpad\documents\visual studio 2013\Projects\Solution1\02.EnterNumbers\obj\Debug\02.EnterNumbers.exe
+c:\users\thinkpad\documents\visual studio 2013\Projects\Solution1\02.EnterNumbers\obj\Debug\02.EnterNumbers.pdb

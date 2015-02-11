@@ -1,0 +1,6 @@
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP-Homework_EncapsulationPolymorphism\02.BankOfKurtovoKonare\bin\Debug\02.BankOfKurtovoKonare.exe.config
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP-Homework_EncapsulationPolymorphism\02.BankOfKurtovoKonare\obj\Debug\02.BankOfKurtovoKonare.csprojResolveAssemblyReference.cache
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP-Homework_EncapsulationPolymorphism\02.BankOfKurtovoKonare\bin\Debug\02.BankOfKurtovoKonare.exe
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP-Homework_EncapsulationPolymorphism\02.BankOfKurtovoKonare\bin\Debug\02.BankOfKurtovoKonare.pdb
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP-Homework_EncapsulationPolymorphism\02.BankOfKurtovoKonare\obj\Debug\02.BankOfKurtovoKonare.exe
+C:\Users\ThinkPad\Documents\Visual Studio 2013\Projects\OOP-Homework_EncapsulationPolymorphism\02.BankOfKurtovoKonare\obj\Debug\02.BankOfKurtovoKonare.pdb

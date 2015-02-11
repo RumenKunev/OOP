@@ -1,0 +1,1 @@
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP_Homework_StaticMembersNamespaces\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config

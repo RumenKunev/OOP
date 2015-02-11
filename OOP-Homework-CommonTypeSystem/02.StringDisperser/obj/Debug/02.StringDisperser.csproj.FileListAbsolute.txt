@@ -1,0 +1,6 @@
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-Homework-CommonTypeSystem\02.StringDisperser\bin\Debug\02.StringDisperser.exe.config
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-Homework-CommonTypeSystem\02.StringDisperser\bin\Debug\02.StringDisperser.exe
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-Homework-CommonTypeSystem\02.StringDisperser\bin\Debug\02.StringDisperser.pdb
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-Homework-CommonTypeSystem\02.StringDisperser\obj\Debug\02.StringDisperser.csprojResolveAssemblyReference.cache
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-Homework-CommonTypeSystem\02.StringDisperser\obj\Debug\02.StringDisperser.exe
+c:\users\thinkpad\documents\visual studio 2013\Projects\OOP-Homework-CommonTypeSystem\02.StringDisperser\obj\Debug\02.StringDisperser.pdb
